@@ -5,9 +5,9 @@ This area provides numbers you may find useful.
 
 There are currently 3 files that repeat again and again.
 
-us-running-total-031822.csv
-us-daily-031822.csv
-us50state031122.csv
+- us-running-total-031822.csv
+- us-daily-031822.csv
+- us50state031122.csv
 
 us-running-total shows by month the number of deaths since April of 2020
 
