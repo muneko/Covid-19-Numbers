@@ -16,3 +16,7 @@ us-daily shows a daily running total plus a number count for that day
 us50state shows a list of the 50 US states, a running total for each state along with a daily count
 
 In each case the amount of data is kept to a minimum.
+
+To see an example in HTML format visit:
+
+muneko.github.io/blog
