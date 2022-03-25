@@ -19,4 +19,4 @@ In each case the amount of data is kept to a minimum.
 
 To see an example in HTML format visit:
 
-muneko.github.io/blog
+[muneko.github.io/blog](https://muneko.github.io/blog)
